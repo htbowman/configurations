@@ -1,13 +1,13 @@
 {
-	"name":"jmsspringcloud",
+	"name":"myHelloWorld",
 	"profiles":[
-	    "default"
+	    "PCF"
 	],
 	"label":null,
 	"version":null,
 	"propertySources":[
 	{
-		"name":"pcfHelloWorld.app",
+		"name":"myHelloWorld.app",
 		"source":
 		{
 			"myGreeting":"Greetings from the cloud, ",
